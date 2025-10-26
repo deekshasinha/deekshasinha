@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://deekshasinha.github.io/sitemap.xml
