@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Deeksha Sinha</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://deekshasinha.github.io/publication/</link>
+      <atom:link href="https://deekshasinha.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://deekshasinha.github.io/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>https://deekshasinha.github.io/publication/</link>
     </image>
     
     <item>
       <title>Multi-armed Bandits with Cost Subsidy</title>
-      <link>http://localhost:1313/publication/mab-with-cost-subsidy/</link>
+      <link>https://deekshasinha.github.io/publication/mab-with-cost-subsidy/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mab-with-cost-subsidy/</guid>
+      <guid>https://deekshasinha.github.io/publication/mab-with-cost-subsidy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing Offer Sets in Sub-Linear Time</title>
-      <link>http://localhost:1313/publication/sub-linear-recommendations/</link>
+      <link>https://deekshasinha.github.io/publication/sub-linear-recommendations/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sub-linear-recommendations/</guid>
+      <guid>https://deekshasinha.github.io/publication/sub-linear-recommendations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Near Optimal AB Testing</title>
-      <link>http://localhost:1313/publication/ab-testing/</link>
+      <link>https://deekshasinha.github.io/publication/ab-testing/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ab-testing/</guid>
+      <guid>https://deekshasinha.github.io/publication/ab-testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Load dependent optimal ON-OFF policies in cellular heterogeneous networks</title>
-      <link>http://localhost:1313/publication/hetnet/</link>
+      <link>https://deekshasinha.github.io/publication/hetnet/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hetnet/</guid>
+      <guid>https://deekshasinha.github.io/publication/hetnet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nplug: An autonomous peak load controller</title>
-      <link>http://localhost:1313/publication/nplug/</link>
+      <link>https://deekshasinha.github.io/publication/nplug/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nplug/</guid>
+      <guid>https://deekshasinha.github.io/publication/nplug/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theja Tulabandhula | Deeksha Sinha</title>
-    <link>http://localhost:1313/authors/theja-tulabandhula/</link>
-      <atom:link href="http://localhost:1313/authors/theja-tulabandhula/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://deekshasinha.github.io/authors/theja-tulabandhula/</link>
+      <atom:link href="https://deekshasinha.github.io/authors/theja-tulabandhula/index.xml" rel="self" type="application/rss+xml" />
     <description>Theja Tulabandhula</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://deekshasinha.github.io/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Theja Tulabandhula</title>
-      <link>http://localhost:1313/authors/theja-tulabandhula/</link>
+      <link>https://deekshasinha.github.io/authors/theja-tulabandhula/</link>
     </image>
     
     <item>
       <title>Recommendations under Multi-Product Purchase Behavior</title>
-      <link>http://localhost:1313/working_paper/multi_purchase/</link>
+      <link>https://deekshasinha.github.io/working_paper/multi_purchase/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/working_paper/multi_purchase/</guid>
+      <guid>https://deekshasinha.github.io/working_paper/multi_purchase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing Revenue while showing Relevant Assortments at Scale</title>
-      <link>http://localhost:1313/working_paper/data_driven_assortments/</link>
+      <link>https://deekshasinha.github.io/working_paper/data_driven_assortments/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/working_paper/data_driven_assortments/</guid>
+      <guid>https://deekshasinha.github.io/working_paper/data_driven_assortments/</guid>
       <description></description>
     </item>
     
