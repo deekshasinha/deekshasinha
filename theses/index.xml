@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theses | Deeksha Sinha</title>
+    <link>http://localhost:1313/theses/</link>
+      <atom:link href="http://localhost:1313/theses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Theses</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Theses</title>
+      <link>http://localhost:1313/theses/</link>
+    </image>
+    
+    <item>
+      <title>Optimization for Online Platforms</title>
+      <link>http://localhost:1313/theses/phd/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sleep-Wake Up Mechanisms for Cellular Heterogeneous Networks</title>
+      <link>http://localhost:1313/theses/ddp/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/ddp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

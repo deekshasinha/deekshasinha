@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andreea Georgescu | Deeksha Sinha</title>
+    <link>http://localhost:1313/authors/andreea-georgescu/</link>
+      <atom:link href="http://localhost:1313/authors/andreea-georgescu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andreea Georgescu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Andreea Georgescu</title>
+      <link>http://localhost:1313/authors/andreea-georgescu/</link>
+    </image>
+    
+    <item>
+      <title>The Limits to Learning an SIR Process: Granular Forecasting for Covid-19</title>
+      <link>http://localhost:1313/working_paper/covid/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/working_paper/covid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

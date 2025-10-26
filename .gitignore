@@ -1,0 +1,17 @@
+# Hugo development server files (localhost only - not needed for production)
+# When you run 'hugo server -D', these files are generated but shouldn't be committed
+public/
+resources/_gen/
+
+# Hugo generated files (these are regenerated on build)
+.hugo_build.lock
+hugo_stats.json
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# System files
+**/*.DS_Store
+**/.claude
+*.lock
